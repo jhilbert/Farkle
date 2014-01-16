@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ViewController onRollButtonPressed:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.subviews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DieLabel labelWasTapped:]:DieLabel.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController countPoints]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "dieLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController numberOfOccurances:inString:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "string.length - searchCharacter.length -1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
